@@ -159,20 +159,20 @@ Brief description of the project. Technologies used. Maybe a GIF/Screenshot.
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anirudh-singh-rajora-04a3b4327/" target="_blank">
+  <a href="https://www.linkedin.com/in/sahil-haryani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>  
-  <a href="https://x.com/AnirudhRajora" target="_blank">
+  <a href="https://x.com/Sahilharyani" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>  
-  <a href="https://www.instagram.com/anirudh.singh.rajora/" target="_blank">
+  <a href="https://www.instagram.com/sahil_haryani_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>  
  <!-- <a href="YOUR_PORTFOLIO_URL" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
   </a>  -->
   <!--
-   <a href="mailto:anirudh.s.me@gmail.com" target="_blank">
+   <a href="sahilshabbirharyani@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>  
   <!-- Add other relevant social links (e.g., Dev.to, Medium, Stack Overflow) --> 
