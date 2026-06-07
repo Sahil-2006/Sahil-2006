@@ -1,17 +1,4 @@
 
-# About me
-🔭 Currently: convincing my code that coffee counts as a compiler  
-👯 Looking to collaborate on: projects that are cooler than my sleep schedule  
-🤝 Need help with: debugging the bugs that debug themselves  
-🌱 Learning: the fine art of googling errors at 3 AM  
-💬 Ask me about: tech, pandas, anime, or why semicolons always betray me  
-⚡ Fun fact: I once tried to teach my virtual cat Git… now it just commits nap logs
-<!-- 
-Hey! Thanks for checking out my profile's source code. 
-Feel free to use this template, but please customize it with your own information!
--->
-
-
 <!-- Waving Hand Animation & Typing Animation Wrapped for Centering -->
 <div align="center">
 
@@ -56,11 +43,12 @@ Feel free to use this template, but please customize it with your own informatio
 <!-- https://github.com/platane/snk -->
 
 <!-- Customize this section! -->
-*   🔭 Trying to learn and develop as much as possible!.
-*   🌱 I’m currently learning Web3.
-*   👯 I’m looking to collaborate on Web3, Webdev.
-*   😄 Pronouns: He/Him
-*   ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
+🔭 Currently: convincing my code that coffee counts as a compiler  
+👯 Looking to collaborate on: projects that are cooler than my sleep schedule  
+🤝 Need help with: debugging the bugs that debug themselves  
+🌱 Learning: the fine art of googling errors at 3 AM  
+💬 Ask me about: tech, pandas, anime, or why semicolons always betray me  
+⚡ Fun fact: I once tried to teach my virtual cat Git… now it just commits nap logs
 <!-- *   💬 Ask me about [Your Expertise - e.g., React, Node.js, Python, Cloud Architecture]. -->
 ---
 
